@@ -1,0 +1,22 @@
+#video, #myCanvas, #text{
+padding:1px 0;
+}
+#content {
+  float:right;
+  width: 300px;
+}
+#text{
+   float:right;
+   width: 300px;
+}
+#video {
+  float:left;
+  top:0;
+  right:0;
+  left:0;
+  bottom:0;
+  width:350px;
+}
+#myCanvas {
+float:right;
+}
